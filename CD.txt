@@ -1,0 +1,6 @@
+1. E:
+2. cd "E:\New folder\projects\project-4\Shopper_Spectrum_App"
+3. cd Shopper_Spectrum_App
+4. dir
+5. pip install -r requirements.txt
+6. streamlit run app.py  
